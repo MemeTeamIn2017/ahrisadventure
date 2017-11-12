@@ -15,6 +15,7 @@ well) the random reward you gain is instant (no drop animation, spell is unlocke
 6. Game screen will be fullscreen mode (windowed screen will not be allowed), game will adapt with aspect ratio and the 
 screen view will either extend or retract depending on the resolution.
 7. Game screen will have: Score, Lives, Health, Menu button (pauses the game), Spell Action Bar.
+
 **II. Gameplay systems.**
 1. Chest/Box rewards after each level (for non-boss levels).
 2. At X number of points – powerup (drops from the sky?) (ex. 50K – powerup, 100k - 1UP)	
@@ -75,8 +76,10 @@ boss dies (you retain none on the next level)
 13. Level switching will be with teleportation.
 14. Game will have a save feature (saves will be made at the start of every new level, for every new save the old will
 be rewritten).
+
 **III. Encoding**
 1. The world will be made with JSONs.
+
 **IV. Menu screen**
 1. Exit game button
 	1. Exits the game completely.
